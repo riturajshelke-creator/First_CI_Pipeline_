@@ -1,15 +1,14 @@
-# Python CI Pipeline
++ # Python CI Pipeline 
 
 ## Project Description
-This project demonstrates a Continuous Integration (CI) pipeline using GitHub Actions and Python.
-
-It automatically executes Python test cases whenever code is pushed to the GitHub repository.
++ This project demonstrates a Continuous Integration (CI) pipeline using Github Actions and Python
++ It automatically executes Python test cases whenever code is pushed to the GitHub repository.
 
 ## Technologies Used
-- Python 3.12
++ - Python 3.12
 - Pytest
-- Git
-- GitHub
++ - Git
++ - GitHub
 - GitHub Actions
 
 ## Project Structure
